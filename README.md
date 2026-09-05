@@ -57,18 +57,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Katzemew&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="github stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Katzemew&hide_border=true" height="165" alt="streak stats"/>
-</div>
-
----
-
 ## 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Katzemew)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sania-firdouse/)
 
 📧 **Email:** saniafirdouse265@gmail.com
