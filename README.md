@@ -1,5 +1,3 @@
-<img src="./assets/pixel-cat.svg" width="150" align="right" alt="pixel cat mascot"/>
-
 # Hi there 👋, I'm Sania Firdouse
 
 💻 **AI & Data Science grad** | 🧠 **Machine Learning & Generative AI** | 🌏 Hyderabad, India
@@ -11,7 +9,6 @@
 - 🎓 AI & Data Science grad at **Osmania University** (2022 – 2026)
 - 🤖 Skilled in **Machine Learning, Generative AI integration, and full-stack development**
 - 🛠 Built systems spanning **content-based recommendation engines**, **adversarial search algorithms**, and **AI-powered adaptive learning platforms**
-- 🌱 Actively seeking **AI/ML engineering** opportunities
 
 ---
 
