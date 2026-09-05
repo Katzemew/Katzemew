@@ -2,16 +2,15 @@
 
 # Hi there 👋, I'm Sania Firdouse
 
-💻 **AI & Data Science Undergrad** | 🧠 **Machine Learning & Generative AI** | 🌏 Hyderabad, India
+💻 **AI & Data Science grad** | 🧠 **Machine Learning & Generative AI** | 🌏 Hyderabad, India
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 AI & Data Science undergrad at **Osmania University** (2022 – 2026)
+- 🎓 AI & Data Science grad at **Osmania University** (2022 – 2026)
 - 🤖 Skilled in **Machine Learning, Generative AI integration, and full-stack development**
 - 🛠 Built systems spanning **content-based recommendation engines**, **adversarial search algorithms**, and **AI-powered adaptive learning platforms**
-- 🏆 Top 4.5% rank (9,710 / 216,000+) in the state-level **EAMCET** entrance examination
 - 🌱 Actively seeking **AI/ML engineering** opportunities
 
 ---
@@ -58,15 +57,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
----
-
-## 🏆 Achievements
-
-- 🥇 **Top 4.5% Rank (9,710)** out of 216,000+ candidates — state-level EAMCET entrance examination
-- 🏅 Selected competitor, **HP Power Lab National Assessment Phase** (hosted by Hindustan Petroleum Corporation Ltd.) — representing Muffakham Jah College of Engineering & Technology, Team *CosmiCrew*
-- 📜 **Generative AI for Everyone** — DeepLearning.AI (Coursera)
-- 📜 **Generative AI: Prompt Engineering Basics** — IBM
 
 ---
 
